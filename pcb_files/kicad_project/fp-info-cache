@@ -1,0 +1,862 @@
+200872257439157
+keyboard_parts
+ALPS_PLATE_SPRING
+http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
+ALPS, keyboard switch, SKCM, SKCL
+0
+4
+3
+keyboard_parts
+ALPS_PLATE_SPRING_CUTOUT
+
+
+0
+0
+0
+keyboard_parts
+ALPS_SKCM
+http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
+ALPS, keyboard switch, SKCM, SKCL
+0
+2
+2
+keyboard_parts
+ALPS_SKCM_CUTOUT
+
+
+0
+0
+0
+keyboard_parts
+ALPS_SKCM_CUTOUT_STAB256
+
+
+0
+0
+0
+keyboard_parts
+ALPS_SKCM_CUTOUT_STAB406
+
+
+0
+0
+0
+keyboard_parts
+ALPS_SKCM_CUTOUT_STAB883
+
+
+0
+0
+0
+keyboard_parts
+ALPS_SKCM_LED
+http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
+ALPS, keyboard switch, SKCM, SKCL
+0
+4
+4
+keyboard_parts
+ALPS_SKCM_reverse_pad
+http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
+ALPS, keyboard switch, SKCM, SKCL
+0
+2
+2
+keyboard_parts
+ALPS_SKRP
+
+
+0
+4
+2
+keyboard_parts
+ALPS_SKSG
+
+
+0
+6
+4
+keyboard_parts
+ALPS_SSAA
+
+
+0
+8
+8
+keyboard_parts
+Adafruit_Bluefruit_LE_SPI_Friend
+Through hole straight socket strip, 1x09, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x09 2.54mm single row
+0
+11
+9
+keyboard_parts
+Atmega32U4_QFN+QFP
+QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+110
+45
+keyboard_parts
+B10K-1_dual_10K_pot
+
+
+0
+6
+6
+keyboard_parts
+Encoder_ALPS_EC10E1220505
+EC10E1220505-1
+Integrated Circuit
+0
+5
+4
+keyboard_parts
+Encoder_Panasonic_EVQWGD001
+
+
+0
+6
+5
+keyboard_parts
+HDMI_A71-05H8-161N1
+
+
+0
+23
+20
+keyboard_parts
+Kailh_socket_PG1350
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+4
+2
+keyboard_parts
+Kailh_socket_PG1350_optional
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
+0
+4
+2
+keyboard_parts
+Kailh_socket_PG1350_optional_reversible
+Kailh "Choc" PG1350 keyswitch with optional socket mount, reversible
+kailh,choc
+0
+7
+2
+keyboard_parts
+Kailh_socket_PG1350_reversible
+Kailh "Choc" PG1350 keyswitch reversible socket mount
+kailh,choc
+0
+4
+2
+keyboard_parts
+MDBT40
+MDBT40
+Integrated Circuit
+0
+42
+42
+keyboard_parts
+MX_1.00u_PCB
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+2
+2
+keyboard_parts
+MX_1.00u_Plate
+Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u plate
+0
+2
+2
+keyboard_parts
+MX_1.25u_PCB
+Cherry MX keyswitch, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.25u PCB
+0
+2
+2
+keyboard_parts
+MX_1.25u_Plate
+Cherry MX keyswitch, 1.25u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.25u plate
+0
+2
+2
+keyboard_parts
+MX_1.50u_PCB
+Cherry MX keyswitch, 1.50u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.50u PCB
+0
+2
+2
+keyboard_parts
+MX_1.50u_Plate
+Cherry MX keyswitch, 1.50u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.50u plate
+0
+2
+2
+keyboard_parts
+MX_1.75u_PCB
+Cherry MX keyswitch, 1.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.75u PCB
+0
+2
+2
+keyboard_parts
+MX_1.75u_Plate
+Cherry MX keyswitch, 1.75u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.75u plate
+0
+2
+2
+keyboard_parts
+MX_2.00u_PCB
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+2
+2
+keyboard_parts
+MX_2.00u_PCB_NoStab
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+2
+2
+keyboard_parts
+MX_2.00u_Plate
+Cherry MX keyswitch, 2.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u plate
+0
+2
+2
+keyboard_parts
+MX_2.00u_Vertical_PCB
+Cherry MX keyswitch, 2.00u, vertical, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u vertical PCB
+0
+2
+2
+keyboard_parts
+MX_2.00u_Vertical_Plate
+Cherry MX keyswitch, 2.00u, vertical, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u vertical plate
+0
+2
+2
+keyboard_parts
+MX_2.25u_PCB
+Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.25u PCB
+0
+2
+2
+keyboard_parts
+MX_2.25u_PCB_NoStab
+Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.25u PCB
+0
+2
+2
+keyboard_parts
+MX_2.25u_Plate
+Cherry MX keyswitch, 2.25u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.25u plate
+0
+2
+2
+keyboard_parts
+MX_2.75u_PCB
+Cherry MX keyswitch, 2.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.75u PCB
+0
+2
+2
+keyboard_parts
+MX_2.75u_PCB_NoStab
+Cherry MX keyswitch, 2.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.75u PCB
+0
+2
+2
+keyboard_parts
+MX_2.75u_Plate
+Cherry MX keyswitch, 2.75u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.75u plate
+0
+2
+2
+keyboard_parts
+MX_4.00u_PCB
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+2
+2
+keyboard_parts
+MX_4.00u_Plate
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+2
+2
+keyboard_parts
+MX_6.25u_PCB
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+2
+2
+keyboard_parts
+MX_6.25u_PCB_NoStab
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+2
+2
+keyboard_parts
+MX_6.25u_Plate
+Cherry MX keyswitch, 6.25u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u plate
+0
+2
+2
+keyboard_parts
+MX_7.00u_PCB
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+2
+2
+keyboard_parts
+MX_7.00u_PCB_InvStab
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+2
+2
+keyboard_parts
+MX_7.00u_PCB_NoStab
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+2
+2
+keyboard_parts
+MX_10.00u_PCB
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+2
+2
+keyboard_parts
+MX_10.00u_PCB_InvStab
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+2
+2
+keyboard_parts
+MX_10.00u_PCB_NoStab
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+2
+2
+keyboard_parts
+MX_ISOEnter_PCB
+Cherry MX keyswitch, ISO Enter, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch ISO enter PCB
+0
+2
+2
+keyboard_parts
+MX_ISOEnter_Plate
+Cherry MX keyswitch, ISO Enter, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch ISO enter plate
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_1.00u
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_1.00u_HoledPads
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_1.00u_PlateMounted
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_1.00u_PlateMounted_HoledPads
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_1.25u
+Cherry MX keyswitch, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.25u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_1.25u_HoledPads
+Cherry MX keyswitch, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.25u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_1.25u_PlateMounted
+Cherry MX keyswitch, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.25u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_1.25u_PlateMounted_HoledPads
+Cherry MX keyswitch, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.25u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_1.50u
+Cherry MX keyswitch, 1.50u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.50u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_1.50u_HoledPads
+Cherry MX keyswitch, 1.50u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.50u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_1.50u_PlateMounted
+Cherry MX keyswitch, 1.50u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.50u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_1.50u_PlateMounted_HoledPads
+Cherry MX keyswitch, 1.50u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.50u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_1.75u
+Cherry MX keyswitch, 1.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.75u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_1.75u_HoledPads
+Cherry MX keyswitch, 1.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.75u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_1.75u_PlateMounted
+Cherry MX keyswitch, 1.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.75u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_1.75u_PlateMounted_HoledPads
+Cherry MX keyswitch, 1.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.75u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_2.00u
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_2.00u_HoledPads
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_2.00u_NoStab
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_2.00u_NoStab_HoledPads
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_2.00u_PlateMounted
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_2.00u_PlateMounted_HoledPads
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_2.00u_PlateMounted_NoStab
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_2.00u_PlateMounted_NoStab_HoledPads
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_2.25u
+Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.25u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_2.25u_HoledPads
+Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.25u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_2.25u_NoStab
+Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.25u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_2.25u_NoStab_HoledPads
+Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.25u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_2.25u_PlateMounted
+Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.25u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_2.25u_PlateMounted_HoledPads
+Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.25u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_2.25u_PlateMounted_NoStab
+Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.25u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_2.25u_PlateMounted_NoStab_HoledPads
+Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.25u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_2.75u
+Cherry MX keyswitch, 2.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.75u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_2.75u_HoledPads
+Cherry MX keyswitch, 2.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.75u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_2.75u_NoStab
+Cherry MX keyswitch, 2.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.75u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_2.75u_NoStab_HoledPads
+Cherry MX keyswitch, 2.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.75u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_2.75u_PlateMounted
+Cherry MX keyswitch, 2.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.75u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_2.75u_PlateMounted_HoledPads
+Cherry MX keyswitch, 2.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.75u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_2.75u_PlateMounted_NoStab
+Cherry MX keyswitch, 2.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.75u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_2.75u_PlateMounted_NoStab_HoledPads
+Cherry MX keyswitch, 2.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.75u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_6.25u
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_6.25u_HoledPads
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_6.25u_InvStab_HoledPads
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_6.25u_NoStab
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_6.25u_NoStab_HoledPads
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_6.25u_PlateMounted
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_6.25u_PlateMounted_HoledPad
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+4
+2
+keyboard_parts
+MX_Kailhua_Socket_6.25u_PlateMounted_NoStab
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+2
+2
+keyboard_parts
+MX_Kailhua_Socket_6.25u_PlateMounted_NoStab_HoledPad
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+4
+2
+keyboard_parts
+MX_LED_1.8mm
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+2
+2
+keyboard_parts
+MX_LED_SK6812MINI-E
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+4
+4
+keyboard_parts
+MX_LED_SK6812MINI-E_REV
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+4
+4
+keyboard_parts
+MX_Stab_2.00u
+MXALPS
+MXALPS
+0
+0
+0
+keyboard_parts
+MX_Stab_2.25u
+MXALPS
+MXALPS
+0
+0
+0
+keyboard_parts
+MX_Stab_2.75u
+MXALPS
+MXALPS
+0
+0
+0
+keyboard_parts
+MX_Stab_3.00u
+MXALPS
+MXALPS
+0
+0
+0
+keyboard_parts
+MX_Stab_6.25u
+MXALPS
+MXALPS
+0
+0
+0
+keyboard_parts
+MX_Stab_7.00u
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+0
+0
+keyboard_parts
+MX_Stab_10.00u
+Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 6.25u PCB
+0
+0
+0
+keyboard_parts
+MX_Stab_ISO
+Cherry MX keyswitch, ISO Enter, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch ISO enter PCB
+0
+0
+0
+keyboard_parts
+MX_Stab_ISO_Inverted
+Cherry MX keyswitch, ISO Enter, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch ISO enter PCB
+0
+0
+0
+keyboard_parts
+NovelKeys_Kailh_Big_Series_Switch
+
+
+0
+2
+2
+keyboard_parts
+Pot_VG039
+
+
+0
+3
+3
+keyboard_parts
+SK6812SIDEA
+SK6812 SIDE-A-3
+Integrated Circuit
+0
+6
+4
+keyboard_parts
+Screen_SSD1306_0.91inch
+Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x04 2.54mm single row
+0
+4
+4
+keyboard_parts
+SpeakerPad_SMD
+
+
+0
+2
+2
+keyboard_parts
+SpeakerPad_SMD+StandoffGNDBridge
+
+
+0
+5
+4
+keyboard_parts
+USB_A_Jing_905-662A203S10200
+USB A connector https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-52100-001.pdf
+USB_A Female Connector receptacle
+0
+8
+5
